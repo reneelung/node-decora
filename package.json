@@ -1,0 +1,25 @@
+{
+  "name": "decora",
+  "version": "1.0.0",
+  "description": "A node library to control Leviton Decora switches, based on mjg59/python-decora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneelung/node-decora.git"
+  },
+  "keywords": [
+    "node",
+    "decora",
+    "leviton",
+    "homebridge"
+  ],
+  "author": "reneelung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneelung/node-decora/issues"
+  },
+  "homepage": "https://github.com/reneelung/node-decora#readme"
+}
